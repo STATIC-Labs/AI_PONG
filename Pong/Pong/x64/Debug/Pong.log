@@ -1,0 +1,15 @@
+﻿  win32_platform.cpp
+C:\Users\rithv\source\repos\C++\Pong\Pong\renderer.cpp(42,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\renderer.cpp(44,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\renderer.cpp(45,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\renderer.cpp(62,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\renderer.cpp(63,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\renderer.cpp(64,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\renderer.cpp(65,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\game.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\game.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\game.cpp(56,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\game.cpp(56,65): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rithv\source\repos\C++\Pong\Pong\game.cpp(40): warning C4715: 'random_y_gen': not all control paths return a value
+  Pong.vcxproj -> C:\Users\rithv\source\repos\C++\Pong\x64\Debug\Pong.exe
